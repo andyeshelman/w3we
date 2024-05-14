@@ -1,0 +1,19 @@
+CONTACT BOOK
+--------------------------------------------------
+hulk@avengers.mcu
+	- name: Bruce Banner
+	- power: gamma ray rage monster
+--------------------------------------------------
+ironman@avengers.mcu
+	- name: Tony Stark
+	- power: techno suit
+--------------------------------------------------
+thor@avengers.mcu
+	- name: Thor Odinson
+	- power: god of thunder
+--------------------------------------------------
+captainamerica@avengers.mcu
+	- name: Stecen Rogers
+	- power: patriotism and super juice
+--------------------------------------------------
+                                               END
